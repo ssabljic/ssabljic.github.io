@@ -4,4 +4,4 @@ description: Barem jedna rečenica koja nešto opisuje.
 plugins:
   - jekyll-remote-theme
 
-remote_theme: daattali/beautiful-jekyll
+remote_theme: mmistakes/minimal-mistakes
