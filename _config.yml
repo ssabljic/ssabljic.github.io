@@ -1,7 +1,4 @@
 title: Siniša
 description: Barem jedna rečenica koja nešto opisuje.
 
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll/minima
