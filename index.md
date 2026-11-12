@@ -4,6 +4,4 @@ title: Početna
 ---
 
 test!
-Jekyll stranica na GitHubu.
-
-
+Stranica na GitHubu.
