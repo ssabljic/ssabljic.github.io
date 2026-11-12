@@ -3,4 +3,7 @@ layout: home
 title: Početna
 ---
 
-test! Ovo je moja prva Jekyll stranica na GitHubu.
+test!
+Jekyll stranica na GitHubu.
+
+
