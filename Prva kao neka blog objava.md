@@ -7,7 +7,7 @@ layout: post
 title: Blog objava za test
 description: Ne znam kamo ide ovaj kratki opis vezan za Blog objavu
 date: 2026-11-20
-permalink: _posts/2026-11-20.md
+permalink: /blog/
 in_menu: true
 nav_order:
 tags:
