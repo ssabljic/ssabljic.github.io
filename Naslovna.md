@@ -1,13 +1,13 @@
 ---
 share: true
-path: Naslovna.md
+path: index.md
 attachments: true
 dataview: false
 layout: home
 title: Naslovna
 description: Kratki opis stranice
 date: 2026-11-20
-permalink: /Naslovna.md
+permalink: /
 in_menu: true
 nav_order: 1
 tags:
