@@ -1,4 +1,5 @@
 ---
+share: true
 layout: home
 title: Početna
 ---
