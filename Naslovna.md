@@ -1,6 +1,6 @@
 ---
 share: true
-path: index.md
+path: Naslovna.md
 attachments: true
 dataview: false
 layout: home
