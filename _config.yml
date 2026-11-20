@@ -1,4 +1,60 @@
-title: Siniša
-description: Barem jedna rečenica koja nešto opisuje.
+# --- OSNOVNI PODACI O STRANICI ---
+title: Moj Osobni Blog
+description: Kratki opis moje stranice i tema o kojima pišem.
+url: "https://sinisasabljic.from.hr"
+baseurl: "ssabljic.github.io" # Ostavi prazno ako je na glavnoj adresi, inače upiši "/ime-repozitorija"
 
-theme: minima
+# --- TEMA I DODACI ---
+remote_theme: daattali/beautiful-jekyll
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# --- NAVIGACIJSKI IZBORNIK (Gornja traka) ---
+navbar-links:
+  Početna: ""
+  O meni: "o-meni"
+  Projekti:
+    - Prvi projekt: "https://github.com"
+    - Drugi projekt: "https://github.com"
+  Kontakt: "kontakt"
+
+# --- PODACI O AUTORU I DRUŠTVENE MREŽE (Podnožje stranice) ---
+author: Tvoje Ime
+
+social-network-links:
+  email: "tvoj.email@primjer.hr"
+  github: tvojeime
+  linkedin: tvojeime
+  # twitter: tvojeime
+  # instagram: tvojeime
+  # rss: true
+
+# --- IZGLED I PONAŠANJE ---
+# Slika avatara u gornjem kutu (putanja do slike u tvom repozitoriju)
+avatar: "/assets/img/avatar-icon.png"
+
+# Prikaz dijela teksta na naslovnici prije klika na "Pročitaj više"
+excerpt_length: 50
+
+# Format datuma objava
+date_format: "%d.%m.%Y."
+
+# Format poveznica za objave
+permalink: /:title/
+
+# --- ZADANE POSTAVKE ZA DATOTEKE ---
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false
+      social-share: true
+  - scope:
+      path: ""
+    values:
+      layout: "page"
