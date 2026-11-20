@@ -1,15 +1,15 @@
 ---
 share: true
-path: pages/1.md
+path: _posts/2026-11-20.md
 attachments: true
 dataview: false
 layout: post
 title: Untitled
 description: Kratki opis stranice
 date: 2026-11-20
-permalink: _posts/1.md
+permalink: blog/2026-11-20.md
 in_menu: true
-nav_order: 10
+nav_order:
 tags:
   - opcenito
 ---
