@@ -7,7 +7,7 @@ layout: home
 title: Naslovna
 description: Kratki opis stranice
 date: 2026-11-20
-permalink: /index/
+permalink: /Naslovna.md/
 in_menu: true
 nav_order: 1
 tags:
