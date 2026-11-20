@@ -1,6 +1,6 @@
 ---
 share: true
-layout: home
+layout: page
 title: Ovo je naslov samo kaj je novi
 ---
 Kako si 
