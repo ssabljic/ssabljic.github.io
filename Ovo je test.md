@@ -1,6 +1,8 @@
 ---
 share: true
+layout: home
+title: Test
 ---
 
-Hoće li ovo otići u sync
+Radi li sync
 
