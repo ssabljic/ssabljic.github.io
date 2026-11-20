@@ -3,7 +3,7 @@ share: true
 path: pages/Prva kao neka blog objava.md
 attachments: true
 dataview: false
-layout: page
+layout: post
 title: Untitled
 description: Kratki opis stranice
 date: 2026-11-20
