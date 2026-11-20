@@ -1,12 +1,16 @@
 ---
 share: true
 layout: home
-title: Početna
+site.title: Siniša
+title: Naslovna stranica
 ---
-Naslovna strana koja ima linkove prema ostalima koji bi trebali raditi
+## Neki sadržaj
 
-Stranica gdje nadam se radi syn i link prema drugoj stranici [test2](test2.md)
+Nešto teksta da ima smisla
 
-Nisam siguran da li je ovo nužno početna stranica
 
-Dodo sam nešto na index file i sada sam sretan
+| Tablica | Neka   |
+| ------- | ------ |
+| Ima     | Nešto  |
+| 1       | Crvena |
+| 2       | Zelena |
